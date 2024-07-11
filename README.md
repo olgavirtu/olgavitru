@@ -4,7 +4,7 @@
 I'm Olga and I'm ML Ops/ Quant Engineer. I am passionate about uncovering hidden power in data, finding market inefficiencies and 
 combining technical skills and product knowledge to craft unsurpassed fintech solutions.
 
-Sharing my insights from experience with Fincrime, Algo-trading and use of LLMs are in my Medium blog.
+Sharing my insights from experience with Fincrime, Algo-trading and experiments with LLMs in my Medium blog.
 <p>
     <a href="https://www.linkedin.com/in/olgadubrovina/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
